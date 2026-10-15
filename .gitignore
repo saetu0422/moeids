@@ -1,0 +1,11 @@
+# Large raw datasets (excluded from repo; keep locally)
+Normal_data.csv
+OVS.csv
+metasploitable-2.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store

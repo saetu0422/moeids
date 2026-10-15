@@ -1,0 +1,7 @@
+metric,value
+attack_pps_before,nan
+attack_pps_after,0.0
+attack_reduction_%,nan
+legit_pps_before,nan
+legit_pps_after,49.1
+legit_retention_%,nan

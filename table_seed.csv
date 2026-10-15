@@ -1,0 +1,5 @@
+Model,Mean,Std,F1-macro (mean±std)
+Decision Tree,0.9814,0.0006,0.9814 ± 0.0006
+Random Forest,0.9771,0.0006,0.9771 ± 0.0006
+MoE-IDS (top-2),0.8862,0.0054,0.8862 ± 0.0054
+MoE-IDS (top-3),0.9397,0.0024,0.9397 ± 0.0024

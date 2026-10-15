@@ -1,0 +1,2 @@
+ts,dpid,src_ip,pred_class,attack_score,action,install_latency_ms
+1792037727.17,1,10.0.0.6,,1.0,drop,10.26

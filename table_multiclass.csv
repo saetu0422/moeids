@@ -1,0 +1,6 @@
+,Accuracy,F1-macro,Precision-macro,Recall-macro
+Rule (pps threshold),0.534,0.2757,0.2307,0.3847
+Decision Tree,0.9988,0.9839,0.9907,0.9777
+Random Forest,0.9986,0.9776,0.9803,0.975
+Single MLP (DL),0.9982,0.9734,0.9802,0.9671
+MoE-IDS (top-2),0.9933,0.8831,0.9722,0.8555

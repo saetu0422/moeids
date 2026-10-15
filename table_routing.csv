@@ -1,0 +1,6 @@
+Class,Routing accuracy
+DDoS,0.9998
+DoS,0.938
+Normal,0.9855
+Other-Attack,0.2428
+Probe,0.9977

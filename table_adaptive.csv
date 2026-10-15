@@ -1,0 +1,6 @@
+Method,F1_mean,F1_std,AvgExperts
+fixed k=1,0.9011,0.0071,1.00
+fixed k=2,0.9168,0.0024,2.00
+fixed k=3,0.9173,0.0024,3.00
+fixed k=4,0.9174,0.0024,4.00
+adaptive (load-aware),0.9171,0.0024,2.50
